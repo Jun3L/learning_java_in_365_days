@@ -7,14 +7,14 @@ Each task is small enough to complete in a day but builds up toward real project
 
 ## Beginner → Intermediate Tasks (1–365)
 
-1. Install Java JDK and set JAVA_HOME.  
-2. Install an IDE (IntelliJ/VS Code/Eclipse) and create your first Java project.  
-3. Write HelloWorld that prints “Hello, Java!”.  
-4. Declare variables of types int, double, boolean, char, String. Print them.  
-5. Read a line from the console using Scanner.  
-6. Practice arithmetic: input two ints and print sum/difference/product/quotient.  
-7. Write code to convert Celsius to Fahrenheit.  
-8. Use if / else to check if a number is even or odd.  
+**1. Install Java JDK and set JAVA_HOME.**  
+**2. Install an IDE (IntelliJ/VS Code/Eclipse) and create your first Java project.**
+**3. Write HelloWorld that prints “Hello, Java!”.**  
+**4. Declare variables of types int, double, boolean, char, String. Print them.**  
+**5. Read a line from the console using Scanner.**  
+**6. Practice arithmetic: input two ints and print sum/difference/product/quotient.**  
+**7. Write code to convert Celsius to Fahrenheit.**  
+**8. Use if / else to check if a number is even or odd.**  
 9. Use switch to map numbers 1–7 to weekday names.  
 10. Use a for loop to print first 20 natural numbers.  
 11. Use a while loop to compute factorial of a number.  
