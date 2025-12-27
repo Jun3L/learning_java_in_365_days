@@ -3,7 +3,7 @@ public class day14 {
         
     }
      class Person {
-     String name;
+      private String name;
      int age;
      
      // Parameterized constructor
@@ -11,5 +11,11 @@ public class day14 {
         this.name = name;
         this.age = age;
      }
+        public String getName(){
+            return name;
+        }
+        public void setName(String n){
+            this.name = n;
+        }
     }
 }
