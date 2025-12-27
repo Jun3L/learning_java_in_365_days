@@ -15,15 +15,15 @@ Each task is small enough to complete in a day but builds up toward real project
 **6. Practice arithmetic: input two ints and print sum/difference/product/quotient.**  
 **7. Write code to convert Celsius to Fahrenheit.**  
 **8. Use if / else to check if a number is even or odd.**  
-9. Use switch to map numbers 1–7 to weekday names.  
-10. Use a for loop to print first 20 natural numbers.  
-11. Use a while loop to compute factorial of a number.  
-12. Use do-while to repeatedly prompt until user types “quit”.  
-13. Create and call a method that returns the square of a number.  
-14. Overload a method with different parameter types.  
-15. Write a method that accepts varargs and sums them.  
-16. Create a Person class with name and age fields.  
-17. Add constructors, getters and setters to Person.  
+**9. Use switch to map numbers 1–7 to weekday names.**  
+**10. Use a for loop to print first 20 natural numbers.**  
+**11. Use a while loop to compute factorial of a number.**  
+**12. Use do-while to repeatedly prompt until user types “quit”.**  
+**13. Create and call a method that returns the square of a number.**  
+**14. Overload a method with different parameter types.**  
+**15. Write a method that accepts varargs and sums them.**  
+**16. Create a Person class with name and age fields.**  
+**17. Add constructors, getters and setters to Person.**  
 18. Override toString() in Person.  
 19. Create a Student subclass that extends Person.  
 20. Demonstrate polymorphism: store Student in a Person variable.  
