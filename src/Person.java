@@ -1,6 +1,6 @@
 public class Person {
      private String name;
-      private int age;
+     private int age;
      
      // Parameterized constructor
      Person(String name, int age){
@@ -22,5 +22,8 @@ public class Person {
             @Override
             public String toString(){
                 return "Your name  is " + this.name + " and your age is " + this.age;
+            }
+            void introduce(){
+              System.out.println("I'm a Person");
             }
 }
