@@ -1,23 +1,21 @@
 public class day14 {
     public static void main(String[] args) {
-        Person p = new Person("", 0);
-        Person p1 = new Student("", 0);
-
-        /* hashcode error when not override toString()
-        System.out.println(p);
-         */
-
-        //Override ToString()
-        //System.out.println(p);
-
-        //call introduce() method
-        p1.introduce();
-        p.introduce();
         
     }
-    
-            
+     class Person {
+      private String name;
+     int age;
+     
+     // Parameterized constructor
+     Person(String name, int age){
+        this.name = name;
+        this.age = age;
+     }
+        public String getName(){
+            return name;
+        }
+        public void setName(String n){
+            this.name = n;
+        }
     }
-   
-    
-
+}
