@@ -24,11 +24,11 @@ Each task is small enough to complete in a day but builds up toward real project
 **15. Write a method that accepts varargs and sums them.**  
 **16. Create a Person class with name and age fields.**  
 **17. Add constructors, getters and setters to Person.**  
-18. Override toString() in Person.  
-19. Create a Student subclass that extends Person.  
-20. Demonstrate polymorphism: store Student in a Person variable.  
-21. Create an interface Printable with print() and implement it.  
-22. Use abstract class: make Animal abstract with speak() abstract method.  
+**18. Override toString() in Person.** 
+**19. Create a Student subclass that extends Person.**  
+**20. Demonstrate polymorphism: store Student in a Person variable.**  
+**21. Create an interface Printable with print() and implement it.**  
+**22. Use abstract class: make Animal abstract with speak() abstract method.**  
 23. Use final keyword on a class and on a method; explain effect.  
 24. Use static fields and methods; create a counter for objects.  
 25. Practice equals() and hashCode() for a simple class.  
