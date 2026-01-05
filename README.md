@@ -32,8 +32,8 @@ Each task is small enough to complete in a day but builds up toward real project
 **23. Use final keyword on a class and on a method; explain effect.**  
 **24. Use static fields and methods; create a counter for objects.**  
 **25. Practice equals() and hashCode() for a simple class.**  
-26. Create and use an ArrayList of strings.  
-27. Iterate an ArrayList with for, for-each, and Iterator.  
+**26. Create and use an ArrayList of strings.**  
+**27. Iterate an ArrayList with for, for-each, and Iterator.**  
 28. Use a LinkedList and compare insert/remove speed conceptually.  
 29. Use a HashSet to eliminate duplicates from an array.  
 30. Use a TreeSet to store sorted unique values.  
