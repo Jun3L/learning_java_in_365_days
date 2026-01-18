@@ -41,7 +41,7 @@ Each task is small enough to complete in a day but builds up toward real project
 **32. Iterate HashMap entries and print key/value pairs.**  
 **33. Use Map.computeIfAbsent for cleaner counting.**  
 **34. Practice Collections.sort() on a list of integers.**  
-35. Use Comparator to sort objects by a field.  
+**35. Use Comparator to sort objects by a field.**  
 36. Read and write a text file using Files.readAllLines / Files.write.  
 37. Use BufferedReader and BufferedWriter for file I/O.  
 38. Serialize a simple object using ObjectOutputStream and read it back.  
