@@ -46,7 +46,7 @@ Each task is small enough to complete in a day but builds up toward real project
 **37. Use BufferedReader and BufferedWriter for file I/O.**  
 **38. Serialize a simple object using ObjectOutputStream and read it back.**  
 **39. Parse integers safely with try/catch for NumberFormatException.**  
-40. Learn checked vs unchecked exceptions; create a custom checked exception.  
+**40. Learn checked vs unchecked exceptions; create a custom checked exception.**  
 41. Use try-with-resources to auto-close I/O streams.  
 42. Use StringBuilder to build a long string efficiently.  
 43. Split and join strings; count words in a sentence.  
