@@ -1,24 +1,17 @@
 package Sample;
-import java.util.Scanner;
+import javax.swing.*;
 public class sample {
     public static void main(String[] args){
-        Scanner s = new Scanner(System.in);
-        int[][] num = new int[3][3];
-        System.out.print("Enter a number: ");
-        for(int i=0;i<3;i++){
-            for(int j=0;j<3;j++){
-                num[i][j]=s.nextInt();
-            }
-        }
-        System.out.println("The matrix is: ");
-        for(int i=0;i<3;i++){
-            for(int j=0;j<3;j++){
-                System.out.print(num[i][j] + " ");
-            }
-            System.out.println();
+       JFrame frame = new JFrame("Event Example");
+        JButton button = new JButton("Click Me");
 
+        button.addActionListener(e -> {
+            System.out.println("Button clicked!");
+        });
 
-    }
-    s.close();
+        frame.add(button);
+        frame.setSize(300, 200);
+        frame.setVisible(true);
+       
     }
 }
