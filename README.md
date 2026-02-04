@@ -49,11 +49,11 @@ Each task is small enough to complete in a day but builds up toward real project
 **40. Learn checked vs unchecked exceptions; create a custom checked exception.**  
 **41. Use try-with-resources to auto-close I/O streams.**  
 **42. Use StringBuilder to build a long string efficiently.**  
-43. Split and join strings; count words in a sentence.  
-44. Practice regex: validate an email address (simple pattern).  
-45. Use Pattern and Matcher to find all numbers in a string.  
-46. Work with dates: print current date/time using java.time.LocalDateTime.  
-47. Format dates with DateTimeFormatter.  
+**43. Split and join strings; count words in a sentence.**  
+**44. Practice regex: validate an email address (simple pattern).**  
+**45. Use Pattern and Matcher to find all numbers in a string.**  
+**46. Work with dates: print current date/time using java.time.LocalDateTime.**  
+**47. Format dates with DateTimeFormatter.**  
 48. Parse a date string into a LocalDate.  
 49. Create a basic timer using Thread.sleep and System.currentTimeMillis.  
 50. Use Runnable to start a new thread that prints numbers.  
