@@ -1,7 +1,10 @@
 import java.time.LocalDateTime;
+import java.time.format.DateTimeFormatter;
 public class day39 {
     public static void main(String[] args) {
         LocalDateTime now = LocalDateTime.now();
-       System.out.println(now);
+        DateTimeFormatter formatter = DateTimeFormatter.ofPattern("yyyy-MM-dd HH:mm:ss");
+        System.out.println(now.format(formatter));
+       
     }
 }
