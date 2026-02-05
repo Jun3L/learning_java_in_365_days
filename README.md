@@ -56,8 +56,8 @@ Each task is small enough to complete in a day but builds up toward real project
 **47. Format dates with DateTimeFormatter.**  
 **48. Parse a date string into a LocalDate**.  
 **49. Create a basic timer using Thread.sleep and System.currentTimeMillis**.  
-50. Use Runnable to start a new thread that prints numbers.  
-51. Use Callable and Future with an ExecutorService.  
+**50. Use Runnable to start a new thread that prints numbers.**  
+**51. Use Callable and Future with an ExecutorService.**  
 52. Use synchronized to protect a shared counter (multi-thread basics).  
 53. Learn about race conditions; create two threads that increment without sync.  
 54. Use ConcurrentHashMap or AtomicInteger for thread-safe operations.  
