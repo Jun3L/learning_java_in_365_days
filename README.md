@@ -54,8 +54,8 @@ Each task is small enough to complete in a day but builds up toward real project
 **45. Use Pattern and Matcher to find all numbers in a string.**  
 **46. Work with dates: print current date/time using java.time.LocalDateTime.**  
 **47. Format dates with DateTimeFormatter.**  
-48. Parse a date string into a LocalDate.  
-49. Create a basic timer using Thread.sleep and System.currentTimeMillis.  
+**48. Parse a date string into a LocalDate**.  
+**49. Create a basic timer using Thread.sleep and System.currentTimeMillis**.  
 50. Use Runnable to start a new thread that prints numbers.  
 51. Use Callable and Future with an ExecutorService.  
 52. Use synchronized to protect a shared counter (multi-thread basics).  
@@ -124,6 +124,9 @@ Each task is small enough to complete in a day but builds up toward real project
 115. Learn about event dispatch thread and SwingUtilities.invokeLater.  
 116. Parse XML using DocumentBuilder and print elements.  
 117. Use JAXB or DOM to map XML to objects.
+119. Create a properties editor GUI for .properties config.  
+120. Create an image viewer that loads and displays an image.  
+121. Resize an image (basic scaling) and save the result.  
 121. Add keyboard shortcuts to your Swing/JavaFX app.  
 122. Build a stopwatch GUI app with start/stop/reset.  
 123. Implement a simple notepad (open/save text files).  
@@ -369,6 +372,3 @@ Each task is small enough to complete in a day but builds up toward real project
 363. Secure blog API with authentication.  
 364. Deploy Spring Boot app to cloud (Heroku/AWS).  
 365. Plan the next 365 days: choose advanced paths (Spring, Microservices, Android, AI, etc.). 
-119. Create a properties editor GUI for .properties config.  
-120. Create an image viewer that loads and displays an image.  
-121. Resize an image (basic scaling) and save the result.  
