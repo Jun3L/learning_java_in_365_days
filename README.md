@@ -58,9 +58,9 @@ Each task is small enough to complete in a day but builds up toward real project
 **49. Create a basic timer using Thread.sleep and System.currentTimeMillis**.  
 **50. Use Runnable to start a new thread that prints numbers.**  
 **51. Use Callable and Future with an ExecutorService.**  
-52. Use synchronized to protect a shared counter (multi-thread basics).  
-53. Learn about race conditions; create two threads that increment without sync.  
-54. Use ConcurrentHashMap or AtomicInteger for thread-safe operations.  
+**52. Use synchronized to protect a shared counter (multi-thread basics).** 
+**53. Learn about race conditions; create two threads that increment without sync.**  
+**54. Use ConcurrentHashMap or AtomicInteger for thread-safe operations.**  
 55. Build a simple producer-consumer with BlockingQueue.  
 56. Use Stream API to filter, map, reduce a list of numbers.  
 57. Convert a list of objects to a map using streams.  
