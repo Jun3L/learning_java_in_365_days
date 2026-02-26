@@ -66,7 +66,7 @@ Each task is small enough to complete in a day but builds up toward real project
 **57. Convert a list of objects to a map using streams.**  
 **58. Use Optional<T> to avoid null checks in a small example.**  
 **59. Learn method references and lambda expressions with Comparator.**  
-60. Chain stream operations: filter, sort, limit, collect.  
+**60. Chain stream operations: filter, sort, limit, collect.**  
 61. Read JSON from a string using a library (Jackson/Gson).  
 62. Write an object to JSON string and back with Jackson/Gson.  
 63. Use Properties to load config from .properties file.  
