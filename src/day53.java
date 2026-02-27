@@ -4,9 +4,11 @@ public class day53 {
     public static void main(String[] args) {
         Properties properties = new Properties();
         try{
+            //It will open the file of config.properties
             FileInputStream fils = new FileInputStream("config.properties");
             properties.load(fils);
-
+            
+            // it will get the settings to the .properties file
             String appName = properties.getProperty("app.name");
             String appVersion = properties.getProperty("app.version");
             String dbURL = properties.getProperty("db.url");
