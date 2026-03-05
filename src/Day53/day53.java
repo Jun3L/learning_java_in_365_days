@@ -5,8 +5,8 @@ public class day53 {
         try {
             // convert json to java object
         String json = "{\"name\":\"Rico\",\"age\":20,\"course\":\"IT\"}"; //create a json format
-        Gson gson = new Gson(); // gson object
-        Student student = gson.fromJson(json, Student.class);
+        Gson gson = new Gson();
+        Student student = gson.fromJson(json, Student.class); //convert json to java object
 
         System.out.println(student.name);
         System.out.println(student.age);
