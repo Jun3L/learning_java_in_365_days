@@ -70,8 +70,8 @@ Each task is small enough to complete in a day but builds up toward real project
 **61. Read JSON from a string using a library (Jackson/Gson).**  
 **62. Write an object to JSON string and back with Jackson/Gson.**  
 **63. Use Properties to load config from .properties file.**  
-64. Use BigInteger and BigDecimal for large integer/precise decimal math.  
-65. Implement binary search on a sorted array.  
+**64. Use BigInteger and BigDecimal for large integer/precise decimal math.**  
+**65. Implement binary search on a sorted array.**  
 66. Implement bubble sort; then implement a better sort (e.g., quicksort).  
 67. Solve FizzBuzz cleanly using modular arithmetic.  
 68. Write a recursive function (e.g., compute Fibonacci) and an iterative version.  
