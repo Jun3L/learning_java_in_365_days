@@ -73,9 +73,9 @@ Each task is small enough to complete in a day but builds up toward real project
 **64. Use BigInteger and BigDecimal for large integer/precise decimal math.**  
 **65. Implement binary search on a sorted array.**  
 **66. Implement bubble sort; then implement a better sort (e.g., quicksort).**  
-67. Solve FizzBuzz cleanly using modular arithmetic.  
-68. Write a recursive function (e.g., compute Fibonacci) and an iterative version.  
-69. Detect palindrome strings (ignore non-letters and case).  
+**67. Solve FizzBuzz cleanly using modular arithmetic.**  
+**68. Write a recursive function (e.g., compute Fibonacci) and an iterative version.**  
+**69. Detect palindrome strings (ignore non-letters and case).**  
 70. Reverse a string using a stack or using StringBuilder.reverse().  
 71. Implement a stack using ArrayDeque.  
 72. Implement a queue using LinkedList or ArrayDeque.  
