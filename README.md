@@ -78,7 +78,7 @@ Each task is small enough to complete in a day but builds up toward real project
 **69. Detect palindrome strings (ignore non-letters and case).**  
 **70. Reverse a string using a stack or using StringBuilder.reverse().**  
 **71. Implement a stack using ArrayDeque.**  
-72. Implement a queue using LinkedList or ArrayDeque.  
+**72. Implement a queue using LinkedList or ArrayDeque.**  
 73. Build a simple linked list node class and traverse it.  
 74. Implement depth-first search on a simple graph represented by adjacency lists.  
 75. Write code to check balanced parentheses using a stack.  
