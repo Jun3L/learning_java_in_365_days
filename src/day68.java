@@ -18,8 +18,8 @@ public class day68 {
         System.out.println("Generic Class Example");
         Box<String> stringBox = new Box<>("Hello, Generic World!");
         System.out.println("Value in stringBox: " + stringBox.getValue());
-        stringBox.setValue("Updated Value");
+        stringBox.setValue("Hello world!");
         System.out.println("Updated value in stringBox: " + stringBox.getValue());
-        
+
     }
 }
