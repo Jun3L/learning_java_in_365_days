@@ -83,7 +83,7 @@ Each task is small enough to complete in a day but builds up toward real project
 **74. Implement depth-first search on a simple graph represented by adjacency lists.**  
 **75. Write code to check balanced parentheses using a stack.**  
 **76. Implement a simple LRU cache using LinkedHashMap.**  
-77. Learn about generics: create a generic Pair<A,B> class.  
+**77. Learn about generics: create a generic Pair<A,B> class.** 
 78. Use bounded generics (<? extends Number>) in a method.  
 79. Write a small unit test using JUnit for one class method.  
 80. Use assertions with assert to check invariants in development.  
