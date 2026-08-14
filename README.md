@@ -84,8 +84,8 @@ Each task is small enough to complete in a day but builds up toward real project
 **75. Write code to check balanced parentheses using a stack.**  
 **76. Implement a simple LRU cache using LinkedHashMap.**  
 **77. Learn about generics: create a generic Pair<A,B> class.** 
-78. Use bounded generics (<? extends Number>) in a method.  
-79. Write a small unit test using JUnit for one class method.  
+**78. Use bounded generics (<? extends Number>) in a method.**  
+**79. Write a small unit test using JUnit for one class method.**  
 80. Use assertions with assert to check invariants in development.  
 81. Use Maven or Gradle to create and build a simple project.  
 82. Add a dependency (e.g., JUnit or Gson) with Maven/Gradle and use it.  
