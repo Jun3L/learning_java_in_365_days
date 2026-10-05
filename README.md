@@ -90,7 +90,7 @@ Each task is small enough to complete in a day but builds up toward real project
 **81. Use Maven or Gradle to create and build a simple project.**  
 **82. Add a dependency (e.g., JUnit or Gson) with Maven/Gradle and use it.**  
 **83. Explore Java modules (simple module-info.java).**  
-84. Create a small command-line app that accepts arguments and prints them.  
+**84. Create a small command-line app that accepts arguments and prints them.**  
 85. Build a CLI menu loop: add/view/delete simple text notes.  
 86. Create a TODO list persisted to a text file.  
 87. Create a small address book using HashMap saved to JSON.  
